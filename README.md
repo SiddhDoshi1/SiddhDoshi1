@@ -7,15 +7,15 @@
 
 ### My Competitive Programming Profiles
 &emsp;&emsp;&emsp;&ensp;&ensp;
-<a href="https://codeforces.com/profile/siddhdoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddhdoshi" height="30" width="40" /></a> &nbsp;
-<a href="https://www.leetcode.com/siddhdoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhdoshi" height="30" width="40" /></a> &nbsp;
-<a href="https://www.codechef.com/users/siddhdoshi9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddhdoshi9" height="30" width="40" /></a> &nbsp;
-<a href="https://www.hackerrank.com/siddhdoshi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddhdoshi9" height="30" width="40" /></a> &nbsp;
+<a href="https://codeforces.com/profile/siddhdoshi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddhdoshi" height="30" width="40" /></a> &nbsp;
+<a href="https://www.leetcode.com/siddhdoshi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhdoshi" height="30" width="40" /></a> &nbsp;
+<a href="https://www.codechef.com/users/siddhdoshi9" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="siddhdoshi9" height="30" width="40" /></a> &nbsp;
+<a href="https://www.hackerrank.com/siddhdoshi9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="siddhdoshi9" height="30" width="40" /></a> &nbsp;
 
 ### Connect with me
 &emsp;&ensp;
-<a href="https://twitter.com/siddhdoshi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhdoshi9" height="30" width="40" /></a> &nbsp;
-<a href="https://linkedin.com/in/siddh-doshi-258630252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddh-doshi-258630252" height="30" width="40" /></a> &nbsp;
+<a href="https://twitter.com/siddhdoshi9" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="siddhdoshi9" height="30" width="40" /></a> &nbsp;
+<a href="https://linkedin.com/in/siddh-doshi-258630252" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddh-doshi-258630252" height="30" width="40" /></a> &nbsp;
 
 ### Skills
 #### Programming Languages
