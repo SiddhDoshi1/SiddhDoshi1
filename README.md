@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🚀 About me
-&emsp;&emsp;🎓 I am Siddh Doshi, a WebDev enthusiast and a Full Stack Web Developer. I am also pursuing my Bachelor in Computer Science & Engineering from Nirma University and will graduate in mid-2026. 
+&emsp;&emsp;🎓 I am Siddh Doshi, a WebDev enthusiast and a Full Stack Web Developer. I am also pursuing my Bachelor in Computer Science&emsp;&emsp; & Engineering from Nirma University and will graduate in mid-2026. 
 
 &emsp;&emsp;👨‍💻 I am really enthusiastic about learning new technologies and I am eager to contribute to Open Source Projects. I dedicated most of my time in learning and building on Web3 projects and now I am looking for learning other skills. I am also into competitve programming and I love solving DSA problems.
 
